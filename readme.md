@@ -19,10 +19,4 @@ This is the practice of learning a project based on Python and flask
 ### lesson_5:
 > 在本节，实现了TODO小站
 
-```
-测试一下代码高亮
-def test():
-  print("hello")
-  a  = 1+2
-  print(a)
-```
+
